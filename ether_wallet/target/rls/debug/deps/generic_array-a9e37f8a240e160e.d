@@ -1,0 +1,11 @@
+e:\desk\Desktop\simple-Ethereum-wallet\ether_wallet\target\rls\debug\deps\generic_array-a9e37f8a240e160e.rmeta: C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\lib.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\hex.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\impls.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\arr.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\functional.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\iter.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\sequence.rs
+
+e:\desk\Desktop\simple-Ethereum-wallet\ether_wallet\target\rls\debug\deps\generic_array-a9e37f8a240e160e.d: C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\lib.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\hex.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\impls.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\arr.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\functional.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\iter.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\sequence.rs
+
+C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\lib.rs:
+C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\hex.rs:
+C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\impls.rs:
+C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\arr.rs:
+C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\functional.rs:
+C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\iter.rs:
+C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\generic-array-0.14.5\src\sequence.rs:

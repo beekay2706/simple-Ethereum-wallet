@@ -1,13 +1,13 @@
 [package]
 name = "ether_wallet"
 version = "0.1.0"
-edition = "2021"
+edition = "2022"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
 web3 = {version = "0.18.0", features = ["rand"] }
 tokio = "1.16.1"
 secp256k1 = {version = "0.22.1", features = ["rand"] }
-tiny-keccak = "2.0.1"
-anyhow = "1.0.55"
+tiny-keccak = "2.0.2"
+anyhow = "1.0.56"
+fltk = { version = "^1.1", git = "https://github.com/fltk-rs/fltk-rs" }

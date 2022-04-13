@@ -1,0 +1,13 @@
+e:\desk\Desktop\simple-Ethereum-wallet\ether_wallet\target\rls\debug\deps\tracing-7beff452909a6185.rmeta: C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\lib.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\macros.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\dispatcher.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\field.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\instrument.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\level_filters.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\span.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\stdlib.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\subscriber.rs
+
+e:\desk\Desktop\simple-Ethereum-wallet\ether_wallet\target\rls\debug\deps\tracing-7beff452909a6185.d: C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\lib.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\macros.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\dispatcher.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\field.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\instrument.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\level_filters.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\span.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\stdlib.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\subscriber.rs
+
+C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\lib.rs:
+C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\macros.rs:
+C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\dispatcher.rs:
+C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\field.rs:
+C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\instrument.rs:
+C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\level_filters.rs:
+C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\span.rs:
+C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\stdlib.rs:
+C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\tracing-0.1.32\src\subscriber.rs:

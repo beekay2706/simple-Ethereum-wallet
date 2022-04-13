@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=e:\desk\Desktop\simple-Ethereum-wallet\ether_wallet\target\rls\debug\build\typenum-3a08a14bb02307d9\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=e:\desk\Desktop\simple-Ethereum-wallet\ether_wallet\target\rls\debug\build\typenum-3a08a14bb02307d9\out\op.rs

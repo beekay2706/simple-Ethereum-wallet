@@ -1,0 +1,11 @@
+e:\desk\Desktop\simple-Ethereum-wallet\ether_wallet\target\rls\debug\deps\futures_task-01453949599eef9e.rmeta: C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\lib.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\spawn.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\arc_wake.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\waker.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\waker_ref.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\future_obj.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\noop_waker.rs
+
+e:\desk\Desktop\simple-Ethereum-wallet\ether_wallet\target\rls\debug\deps\futures_task-01453949599eef9e.d: C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\lib.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\spawn.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\arc_wake.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\waker.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\waker_ref.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\future_obj.rs C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\noop_waker.rs
+
+C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\lib.rs:
+C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\spawn.rs:
+C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\arc_wake.rs:
+C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\waker.rs:
+C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\waker_ref.rs:
+C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\future_obj.rs:
+C:\Users\Barat\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-task-0.3.21\src\noop_waker.rs:
